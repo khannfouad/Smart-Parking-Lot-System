@@ -1,0 +1,23 @@
+{
+  "name": "smart-parking-lot-system",
+  "version": "1.0.0",
+  "description": "airtribe assignment",
+  "homepage": "https://github.com/khannfouad/Smart-Parking-Lot-System#readme",
+  "bugs": {
+    "url": "https://github.com/khannfouad/Smart-Parking-Lot-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khannfouad/Smart-Parking-Lot-System.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}
